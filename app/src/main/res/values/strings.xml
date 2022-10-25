@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Point Average Calculator</string>
+    <string name="point1">Please enter Vize</string>
+    <string name="point2">Please enter Final</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+
+</resources>
